@@ -1233,8 +1233,8 @@ width: 100%;
     justify-content:start;
   }
 .person{
-  width: 90%;
-  height: 30%;
+  width: 80%;
+  height: 20%;
 }
 .bodyops{
   padding: 0;
@@ -1263,4 +1263,7 @@ width: 100%;
 .cardtitle{
   margin-top: 270px;
 }
-  }
+.sikcard{
+  margin-left: 0;
+}
+}
