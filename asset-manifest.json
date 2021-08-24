@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/superops/static/css/main.3ce8e9cc.chunk.css",
+    "main.js": "/superops/static/js/main.c3ceee14.chunk.js",
+    "main.js.map": "/superops/static/js/main.c3ceee14.chunk.js.map",
+    "runtime-main.js": "/superops/static/js/runtime-main.f7e8af11.js",
+    "runtime-main.js.map": "/superops/static/js/runtime-main.f7e8af11.js.map",
+    "static/css/2.818011ed.chunk.css": "/superops/static/css/2.818011ed.chunk.css",
+    "static/js/2.af3e997e.chunk.js": "/superops/static/js/2.af3e997e.chunk.js",
+    "static/js/2.af3e997e.chunk.js.map": "/superops/static/js/2.af3e997e.chunk.js.map",
+    "static/js/3.94b3121a.chunk.js": "/superops/static/js/3.94b3121a.chunk.js",
+    "static/js/3.94b3121a.chunk.js.map": "/superops/static/js/3.94b3121a.chunk.js.map",
+    "index.html": "/superops/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/superops/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.3ce8e9cc.chunk.css.map": "/superops/static/css/main.3ce8e9cc.chunk.css.map",
+    "static/js/2.af3e997e.chunk.js.LICENSE.txt": "/superops/static/js/2.af3e997e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/superops/static/media/yellow2.a137ff89.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7e8af11.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.af3e997e.chunk.js",
+    "static/css/main.3ce8e9cc.chunk.css",
+    "static/js/main.c3ceee14.chunk.js"
+  ]
+}
