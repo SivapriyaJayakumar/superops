@@ -1220,7 +1220,7 @@ width: 100%;
   }
   }
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:430px){
   .tools{
     margin: 0;
   }
@@ -1233,7 +1233,7 @@ width: 100%;
     justify-content:start;
   }
 .person{
-  width: 80%;
+  width: 90%;
   height: 30%;
 }
 .bodyops{
@@ -1247,5 +1247,20 @@ width: 100%;
   width: 60px;
 
 }
+.greentwores{
+  left :-6%;
+}
+.customertestimonalwrap{
+  padding: 8px;
+}
+.alltogetherwrap{
+  width: 100%;
 
+}
+.opscarddiv{
+  min-width: 50% !important;
+}
+.cardtitle{
+  margin-top: 270px;
+}
   }
